@@ -8,7 +8,7 @@ Project Wingman 简体中文语言回退修复补丁。
 
 请从 Release 页面下载：
 
-[ProjectWingman_zhCN_Fix.bat](https://github.com/qqqqqc1/ProjectWingman-zhCN-LanguageFix/releases/latest/download/ProjectWingman_zhCN_Fix.bat)
+[ProjectWingman_zhCN_Fix.bat](https://github.com/sheno4/ProjectWingman-zhCN-LanguageFix/releases/latest/download/ProjectWingman_zhCN_Fix.bat)
 
 ## 使用方法
 
